@@ -1,0 +1,6 @@
+# Created December 9, 2023
+# Mike Orth
+"""
+General code for GITHUB
+"""
+print('hello world')
